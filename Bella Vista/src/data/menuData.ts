@@ -46,7 +46,7 @@ export const menuItems: MenuItem[] = [
     description: 'Atlantic salmon with lemon herb butter, roasted vegetables, and quinoa',
     price: 28.99,
     category: 'Main Courses',
-    image: '/src/assets/1629443988_606ea762e0.jpeg',
+    image: 'https://assets.epicurious.com/photos/62d6c5146b6e74298a39d06a/4:3/w_4031,h_3023,c_limit/BakedSalmon_RECIPE_04142022_9780_final.jpg',
     popular: true
   },
   {
@@ -55,7 +55,7 @@ export const menuItems: MenuItem[] = [
     description: '12oz prime ribeye with garlic mashed potatoes and seasonal vegetables',
     price: 34.99,
     category: 'Main Courses',
-    image: 'https://images.pexels.com/photos/299347/pexels-photo-299347.jpeg?auto=compress&cs=tinysrgb&w=800'
+    image: 'https://www.barillaforprofessionals.com/media/en-us/filer_public/19/d9/19d9cfc7-825c-47ba-922a-f963bd17660a/thick_spaghetti_carbonara_chef_lorenzo_crave_05-1.jpg'
   },
   {
     id: '6',
@@ -82,7 +82,7 @@ export const menuItems: MenuItem[] = [
     description: 'Classic Roman pasta with pancetta, eggs, pecorino, and black pepper',
     price: 18.99,
     category: 'Pasta',
-    image: '/src/assets/Spaghetti-carbonara.png'
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAO5SVJxyAeS1yWToONQyUirH6oaID48NTA&s'
   },
   {
     id: '9',

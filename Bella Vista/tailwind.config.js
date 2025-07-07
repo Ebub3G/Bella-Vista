@@ -29,6 +29,9 @@ export default {
           '100%': { transform: 'scale(1)', opacity: '1' },
         },
       },
+      screens: {
+        'xs': '320px',
+      },
     },
   },
   plugins: [],
